@@ -1,0 +1,3 @@
+ImageNumber,ObjectNumber,Location_Center_X,Location_Center_Y,Location_Center_Z,Number_Object_Number,TrackObjects_Displacement_50,TrackObjects_DistanceTraveled_50,TrackObjects_FinalAge_50,TrackObjects_IntegratedDistance_50,TrackObjects_Label_50,TrackObjects_Lifetime_50,TrackObjects_Linearity_50,TrackObjects_ParentImageNumber_50,TrackObjects_ParentObjectNumber_50,TrackObjects_TrajectoryX_50,TrackObjects_TrajectoryY_50
+142,2311,1168.6355140186915,1149.6728971962616,0,2311,0.0,0.0,1.0,0.0,13361,1,,0.0,0,0.0,0.0
+144,2311,1404.2835051546392,1115.958762886598,0,2311,4.65076351051905,4.65076351051905,,4.65076351051905,13458,2,1.0,143.0,2229,-3.966494845360785,2.428275081719903
